@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../mongodb-sample/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../mongodb-sample/src/test/resources" type="java-test-resource" />
     </content>
-    <orderEntry type="jdk" jdkName="corretto-19" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="mongodb-sample.main" />
     <orderEntry type="library" name="Gradle: org.mongodb:mongodb-driver-sync:5.1.0" level="project" />
