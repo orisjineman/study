@@ -37,6 +37,12 @@ public class MongodbSample {
                 for (Document doc : allFoundArr) {
                     System.out.println(doc.toJson());
                 }
+
+                // insert
+
+                // update
+
+                // delete
             } catch (MongoException e) {
                 e.printStackTrace();
             }
