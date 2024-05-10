@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="base-module" target="19" />
+      <module name="base-module.main" target="19" />
+      <module name="base-module.test" target="19" />
       <module name="mongodb-sample" target="19" />
       <module name="mongodb-sample.main" target="19" />
       <module name="mongodb-sample.test" target="19" />

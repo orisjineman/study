@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/base-module.iml" filepath="$PROJECT_DIR$/base-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base-module.main.iml" filepath="$PROJECT_DIR$/.idea/modules/base-module.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base-module.test.iml" filepath="$PROJECT_DIR$/.idea/modules/base-module.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/mongodb-sample.iml" filepath="$PROJECT_DIR$/mongodb-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongodb-sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mongodb-sample.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongodb-sample.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mongodb-sample.test.iml" />
