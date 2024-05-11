@@ -8,6 +8,9 @@
       <module name="mongodb-sample" target="19" />
       <module name="mongodb-sample.main" target="19" />
       <module name="mongodb-sample.test" target="19" />
+      <module name="string" target="19" />
+      <module name="string.main" target="19" />
+      <module name="string.test" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>

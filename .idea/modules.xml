@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/mongodb-sample.iml" filepath="$PROJECT_DIR$/mongodb-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongodb-sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mongodb-sample.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongodb-sample.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mongodb-sample.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string.iml" filepath="$PROJECT_DIR$/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/string.main.iml" filepath="$PROJECT_DIR$/.idea/modules/string.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/string.test.iml" filepath="$PROJECT_DIR$/.idea/modules/string.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />
     </modules>
   </component>
